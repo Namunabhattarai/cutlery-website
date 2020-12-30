@@ -125,6 +125,10 @@ color:#f9c80e;
 
 
 }
+.row .column h2:hover{
+    color:#f9c80e;
+    
+}
 .row .column p{
     font-size: 1.2em;
     margin-top:20px;
