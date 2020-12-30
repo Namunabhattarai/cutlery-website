@@ -203,6 +203,9 @@ color:#f9c80e;
     margin-top: 10px;
     font-size: 1.5em;;
 }
+.feature .content .box h2:hover{
+    color:#f9c80e;
+}
 .feature .content .box p{
     margin-top:20px;
     font-size: 1.2em;
@@ -268,6 +271,9 @@ color:#f9c80e;
   .menu .content .box h2{
       margin-top:10px;
   }
+  .menu .content .box h2:hover{
+    color:#f9c80e;
+   }
   .menu .content .box p{
       font-size: 1.2em;
       line-height: 25px;
