@@ -381,6 +381,9 @@ color:#f9c80e;
     
 
 @media(max-width:725px){
+    header .logo {
+     margin-left: 20px;
+    }
     .banner .content h2{
     font-size: 3em;
     }
