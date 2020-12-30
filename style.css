@@ -400,12 +400,15 @@ color:#f9c80e;
     }   
     
     .menu .content .box{
-    margin-bottom: 40px;    
+    margin-bottom: 30px;    
     }
     menu .content .box p {
         font-size: 1em;
     
     }
+    .contact .contact-content .contact-col {
+      text-align:center;
+  }
 
 
 }
